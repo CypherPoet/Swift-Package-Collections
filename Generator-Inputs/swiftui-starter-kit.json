@@ -1,0 +1,52 @@
+{
+  "name": "SwiftUI Starter Kit",
+  "overview": "A collection of Swift Packages I frequently like to use when starting new SwiftUI projects.",
+  "keywords": [
+    "CypherPoet",
+    "SwiftUI",
+    "Core Data",
+    "Networking",
+    "Concurrency",
+    "Redux",
+    "Swift Utilities",
+    "SwiftUI Utilities",
+    "SwiftUI Previews",
+    "Xcode Previews",
+    "SwiftUI Typography",
+    "XCTest",
+    "XCTest Utilities",
+    "Swift Testing",
+    "SwiftUI Shapes"
+  ],
+  "formatVersion": "1.0",
+  "revision": 1,
+  "generatedBy": {
+    "name": "CypherPoet"
+  },
+  "packages": [
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIStarterKit"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIPreviewUtils"
+    },
+    {
+      "url": "https://github.com/CypherPoet/CypherPoetCoreDataKit"
+    },
+    {
+      "url": "https://github.com/CypherPoet/CypherPoetReduxUtils"
+    },
+    {
+      "url": "https://github.com/CypherPoet/NetStack"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIPreciselyRoundedRectangle"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUITypographyUtils"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIGeometryUtils"
+    }
+  ]
+}
