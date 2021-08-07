@@ -28,7 +28,7 @@ From there, the added collection should be available for selection.
 
 ## Developing
 
-After editing an input file, use the `swift package-collection-generate` command to generate the final output.
+After editing an input file, use the `swift package-collection-generate` command from the [Swift Package Collection Generator tool](https://github.com/apple/swift-package-collection-generator) to generate the final output.
 
 
 #### Example
@@ -38,3 +38,14 @@ package-collection-generate Generator-Inputs/swiftui-starter-kit.json ./swiftui-
 ```
 
 For editing help, see the [SPM documentation for the input format](https://github.com/apple/swift-package-manager/blob/main/Sources/PackageCollectionsModel/Formats/v1.md).
+
+
+### Validation
+
+Validating the final output with the [Swift Package Collection Generator tool](https://github.com/apple/swift-package-collection-generator) can be super-handy.
+
+#### Example
+
+```sh
+swift package-collection-validate ./swiftui-starter-kit.json --verbose
+```
