@@ -19,7 +19,7 @@
     "SwiftUI Shapes"
   ],
   "formatVersion": "1.0",
-  "revision": 1,
+  "revision": 2,
   "generatedBy": {
     "name": "CypherPoet"
   },
@@ -31,7 +31,7 @@
       "url": "https://github.com/CypherPoet/SwiftUIPreviewUtils"
     },
     {
-      "url": "https://github.com/CypherPoet/CypherPoetCoreDataKit"
+      "url": "https://github.com/CypherPoet/CoreDataKit"
     },
     {
       "url": "https://github.com/CypherPoet/CypherPoetReduxUtils"
