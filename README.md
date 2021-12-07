@@ -26,7 +26,7 @@ From there, the added collection should be available for selection.
 
 
 
-## Developing
+# Developing
 
 After editing an input file, use the `swift package-collection-generate` command from the [Swift Package Collection Generator tool](https://github.com/apple/swift-package-collection-generator) to generate the final output.
 
@@ -47,5 +47,10 @@ Validating the final output with the [Swift Package Collection Generator tool](h
 #### Example
 
 ```sh
-swift package-collection-validate ./swiftui-starter-kit.json --verbose
+package-collection-validate ./swiftui-starter-kit.json --verbose
 ```
+
+
+# All The Things
+
+[The Swift Package Index](https://swiftpackageindex.com/package-collections) dynamically generates package collections containing all packages from every package author in the index. All of mine can be found at `https://swiftpackageindex.com/CypherPoet/collection.json`. However, this awesome feature applies for anyone ⚡️.

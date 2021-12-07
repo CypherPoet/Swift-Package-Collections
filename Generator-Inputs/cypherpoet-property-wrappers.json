@@ -1,0 +1,24 @@
+{
+  "name": "CypherPoet Property Wrappers",
+  "overview": "A collection of Swift Packages containing my custom property wrappers.",
+  "keywords": [
+    "CypherPoet",
+    "Swift",
+    "Swift Property Wrappers",
+    "Property Wrappers",
+    "SwiftUI"
+  ],
+  "formatVersion": "1.0",
+  "revision": 1,
+  "generatedBy": {
+    "name": "CypherPoet"
+  },
+  "packages": [
+    {
+      "url": "https://github.com/CypherPoet/ClampedPropertyWrapper"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIPreviewUtils"
+    }
+  ]
+}
