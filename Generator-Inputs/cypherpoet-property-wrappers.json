@@ -9,7 +9,7 @@
     "SwiftUI"
   ],
   "formatVersion": "1.0",
-  "revision": 1,
+  "revision": 2,
   "generatedBy": {
     "name": "CypherPoet"
   },
@@ -18,7 +18,7 @@
       "url": "https://github.com/CypherPoet/ClampedPropertyWrapper"
     },
     {
-      "url": "https://github.com/CypherPoet/SwiftUIPreviewUtils"
+      "url": "https://github.com/CypherPoet/UnitIntervalPropertyWrapper"
     }
   ]
 }
