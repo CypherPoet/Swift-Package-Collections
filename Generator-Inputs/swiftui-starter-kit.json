@@ -47,6 +47,9 @@
     },
     {
       "url": "https://github.com/CypherPoet/SwiftUIGeometryUtils"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIAsyncContentView"
     }
   ]
 }
