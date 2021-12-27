@@ -1,0 +1,20 @@
+{
+  "name": "CypherPoet SwiftUI Environment Values",
+  "overview": "A collection of custom SwiftUI Environment Values packages.",
+  "keywords": [
+    "CypherPoet",
+    "Swift",
+    "SwiftUI",
+    "SwiftUI Environment Values"
+  ],
+  "formatVersion": "1.0",
+  "revision": 1,
+  "generatedBy": {
+    "name": "CypherPoet"
+  },
+  "packages": [
+    {
+      "url": "https://github.com/CypherPoet/SafeAreaInsetDimensionsEnvironmentValue"
+    }
+  ]
+}
