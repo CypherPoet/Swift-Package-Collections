@@ -1,5 +1,5 @@
 {
-  "name": "CypherPoet Property Wrappers",
+  "name": "CypherPoet Swift Property Wrappers",
   "overview": "A collection of Swift Packages containing my custom property wrappers.",
   "keywords": [
     "CypherPoet",
@@ -9,7 +9,7 @@
     "SwiftUI"
   ],
   "formatVersion": "1.0",
-  "revision": 2,
+  "revision": 3,
   "generatedBy": {
     "name": "CypherPoet"
   },
