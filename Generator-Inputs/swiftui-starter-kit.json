@@ -19,7 +19,7 @@
     "SwiftUI Shapes"
   ],
   "formatVersion": "1.0",
-  "revision": 3,
+  "revision": 4,
   "generatedBy": {
     "name": "CypherPoet"
   },
@@ -50,6 +50,9 @@
     },
     {
       "url": "https://github.com/CypherPoet/SwiftUIAsyncContentView"
+    },
+    {
+      "url": "https://github.com/CypherPoet/SwiftUIColorUtils"
     }
   ]
 }
